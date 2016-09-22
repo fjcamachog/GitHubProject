@@ -3,7 +3,7 @@ import android.widget.Toast;
 
 public class NewClass {
     public NewClass() {
-
+        int variable = 1;
 
     }
 }
